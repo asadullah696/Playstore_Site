@@ -622,3 +622,148 @@ div.similarad6{
     width: inherit;
     background-color: chocolate;
 }
+div.mainappimage{
+    display: flex;
+    position: absolute;
+    top: calc(40vh);
+    right: calc(0vw);
+    width: inherit;
+    height: calc(70vh);
+    background-color: blueviolet;
+}
+div.mainappimage1{
+    display: flex;
+    position: absolute;
+    top: calc(5vh);
+    left: calc(1vw);
+    height: calc(60vh);
+    width: calc(13vw);
+    border: 1px solid black;
+}
+div.mainappimage2{
+    display: flex;
+    position: absolute;
+    top: calc(5vh);
+    left: calc(15vw);
+    height: calc(60vh);
+    width: calc(13vw);
+    border: 1px solid black;
+}
+div.mainappimage3{
+    display: flex;
+    position: absolute;
+    top: calc(5vh);
+    left: calc(29vw);
+    height: calc(60vh);
+    width: calc(13vw);
+    border: 1px solid black;
+}
+div.mainappimage4{
+    display: flex;
+    position: absolute;
+    top: calc(5vh);
+    left: calc(43vw);
+    height: calc(60vh);
+    width: calc(13vw);
+    border: 1px solid black;
+}
+div.mainappdata{
+    display: flex;
+    position: absolute;
+    left: calc(0vw);
+    top: calc(115vh);
+    width: inherit;
+    height: calc(10vh);
+    background-color: lightgreen;
+}
+div.readmore{
+    display: flex;
+    position: absolute;
+    top: calc(122.5vh);
+    left: calc(27.5vw);
+    height: calc(5vh);
+    width: calc(5vw);
+    background-color: blue;
+    border-radius: 5px;
+}
+div.review{
+    display: flex;
+    position: absolute;
+    top: calc(130vh);
+    left: calc(0vw);
+    width: inherit;
+    height: calc(60vh);
+    background-color: lightgrey;
+}
+div.myreview{
+    display: flex;
+    position: absolute;
+    top: calc(1vh);
+    left: calc(3vw);
+    width: calc(10vw);
+    height: calc(4vh);
+    background-color: violet;
+}
+div.accountforreview{
+    display: flex;
+    position: absolute;
+    top: calc(5vh);
+    left: calc(3vw);
+    height: calc(20vh);
+    width: calc(54vw);
+    background-color: aqua;
+}
+div.reviewrating{
+    display: flex;
+    position: absolute;
+    top: calc(30vh);
+    left: calc(3vw);
+    height: calc(30vh);
+    width: calc(54vw);
+    background-color: springgreen;
+}
+div.reviewheading{
+    display: flex;
+    position: absolute;
+    top: calc(0vh);
+    left: calc(1vw);
+    height: calc(4vh);
+    width: calc(8vw);
+    background-color: burlywood;
+}
+div.reviewpolicy{
+    display: flex;
+    position: absolute;
+    top: calc(0vh);
+    right: calc(2vw);
+    height: calc(4vh);
+    width: calc(16vw);
+    background-color: burlywood;
+}
+div.starrating{
+    display: flex;
+    position: absolute;
+    top: calc(5vh);
+    left: calc(3vw);
+    width: calc(48vw);
+    height: calc(25vh);
+    background-color: brown;
+}
+div.star{
+    display: flex;
+    position: absolute;
+    top: calc(0vh);
+    left: calc(0vw);
+    height: inherit;
+    width: calc(14vw);
+    border-right: 1px solid black;
+}
+div.colorrating{
+    display: flex;
+    position: absolute;
+    top: calc(0vh);
+    right: 0vw;
+    height: inherit;
+    width: calc(33vw);
+    background-color: burlywood;
+}
